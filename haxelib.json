@@ -1,0 +1,14 @@
+{
+  "name": "rit5",
+  "url" : "https://github.com/bedwardly-down/rit5/",
+  "license": "MIT",
+  "tags": ["awe6", "html5", "pixijs", "rit5"],
+  "description": "This is an extension library for the awe6 framework using my own custom interfaces, etc.",
+  "version": "0.0.1",
+  "classPath": "src/",
+  "releasenote": "Initial release, lacks any major substance yet.",
+  "contributors": ["Brandon"],
+  "dependencies": {
+    "awe6": ""
+  }
+}
