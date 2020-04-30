@@ -9,6 +9,7 @@
   "releasenote": "Initial release, lacks any major substance yet.",
   "contributors": ["Brandon"],
   "dependencies": {
-    "awe6": ""
+    "awe6": "",
+    "pixijs": "4.8.4"
   }
 }
